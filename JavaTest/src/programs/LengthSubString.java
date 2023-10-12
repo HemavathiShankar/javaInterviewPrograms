@@ -8,7 +8,7 @@ public class LengthSubString {
     public static void main(String[] args) {
         //abcdeab => 4
         //ength is 4(abcd)
-
+        System.out.println("this program is used to fing longest substring");
         String s="feabcdeabc";
         /*StringBuilder sb=new StringBuilder();
         char[] arr=s.toCharArray();
